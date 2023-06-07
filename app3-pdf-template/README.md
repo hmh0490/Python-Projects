@@ -9,7 +9,7 @@ The PDF Note-Taking Template is a simple application that allows users to create
 - Share templates with others
 
 ## Requirements
-- Python 3.9x
+- Python 3.9
 - Dependencies in requirements.txt
 
 ## Getting Started
