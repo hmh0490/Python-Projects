@@ -10,8 +10,8 @@ This is a simplistic todo app built using PySimpleGUI. The app allows users to e
 - Simple and intuitive design
 
 ## Requirements
-- Python 3.9+
-- Dependencies in the requirements.txt
+- Python 3.9x
+- Dependencies in requirements.txt
 
 ## Getting Started
 1. Clone the repository or download the source code.
