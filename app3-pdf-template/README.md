@@ -14,7 +14,7 @@ The PDF Note-Taking Template is a simple application that allows users to create
 
 ## Getting Started
 1. Clone the repository or download the source code for this project.
-2. Install the necessary dependencies as mentioned in the documentation.
+2. Install the necessary dependencies.
 3. Customize the template layout and sections based on your requirements.
 4. Run the application by executing the main.py file.
 5. Save or print the output PDF template for your needs.
