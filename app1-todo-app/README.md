@@ -11,11 +11,11 @@ This is a simplistic todo app built using PySimpleGUI. The app allows users to e
 
 ## Requirements
 - Python 3.9+
-- PySimpleGUI library
+- Dependencies in the requirements.txt
 
 ## Getting Started
 1. Clone the repository or download the source code.
-2. Install PySimpleGUI by running `pip install PySimpleGUI`.
+2. Install the necessary dependencies.
 3. Run the app by executing the `todoApp_GUI.py` file.
 4. Alternatively, you can use it as a web app by using the `todoWebApp.py` and accessing it in your web browser.
    To run the web app write "streamlit run todoWebApp.py" in your Terminal.
