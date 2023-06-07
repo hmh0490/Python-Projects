@@ -11,7 +11,7 @@ The PDF Invoice Creator is a simple application that enables users to generate p
 - Easily print or email invoices to clients
 
 ## Requirements
-- Python 3.9x
+- Python 3.9
 - Dependencies in requirements.txt
 
 ## Getting Started
