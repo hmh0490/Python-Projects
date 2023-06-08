@@ -4,6 +4,7 @@ import selectorlib
 import smtplib, ssl
 import time
 import sqlite3
+import os
 
 URL = "https://programmer100.pythonanywhere.com/tours/"
 # tells the webserver which hosts this webpage, in this case it tells which
@@ -33,7 +34,7 @@ def send_email(message):
     port = 465
 
     username = "hajni0490@gmail.com"
-    password = "bfmgebgukmcdgtyr"
+    password = os.getenv("PASSWORD")
 
     receiver = "hajni0490@gmail.com"
     context = ssl.create_default_context()
