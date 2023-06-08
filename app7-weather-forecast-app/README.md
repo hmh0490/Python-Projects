@@ -14,7 +14,7 @@ This data web app provides a visually appealing and intuitive display of the wea
 ## Getting Started
 1. Clone the repository or download the source code.
 2. Install the necessary dependencies.
-3. Launch the app by running main.py.
+3. Launch the app by typing streamlit run main.py in your terminal.
 4. Enter the desired city to view the weather forecast for the next five days.
 
 Feel free to customize and enhance the app according to your preferences and requirements. Enjoy exploring the weather forecast!
