@@ -2,8 +2,9 @@ import smtplib
 # metadata about images
 import imghdr
 from email.message import EmailMessage
+import os
 
-PASSWORD = "bfmgebgukmcdgtyr"
+PASSWORD = os.getenv("PASSWORD")
 SENDER = "hajni0490@gmail.com"
 RECEIVER = "hajni0490@gmail.com"
 def send_email(image_path):
