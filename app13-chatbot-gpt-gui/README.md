@@ -13,7 +13,7 @@ The Interactive Chatbot is a versatile and intelligent application based on OPEN
 - Python 3.9
 - Dependencies in requirements.txt
 
-## Usage
+## Getting Started
 1. Clone or download the repository to your local machine.
 2. Install the required dependencies.
 3. Obtain your OpenAI API credentials and set them up in the application.
