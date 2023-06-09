@@ -12,7 +12,7 @@ This program monitors a music band's website for new tour announcements and send
 - Python 3.9
 - Dependencies in requirements.txt
 
-## Usage
+## Getting Started
 1. Clone or download the repository to your local machine.
 2. Install the required dependencies.
 3. Configure the email settings in the program (sender email, receiver email, SMTP server, etc.).
