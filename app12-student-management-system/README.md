@@ -12,7 +12,7 @@ The University Student Management Application is a simple desktop application bu
 - Python 3.9
 - Dependencies in requirements.txt
 
-## Usage
+## Getting Started
 1. Clone or download the repository to your local machine.
 2. Install the required dependencies.
 3. Configure the database connection settings in the application code.
