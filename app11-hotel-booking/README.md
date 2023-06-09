@@ -11,7 +11,7 @@ The Hotel Booking App allows users to easily book their preferred accommodations
 - Python 3.9
 - Dependencies in requirements.txt
 
-## Usage
+## Getting Started
 1. Clone or download the repository to your local machine.
 2. Install the required dependencies.
 3. Customize the app to add your own hotel listings or integrate with existing hotel databases.
